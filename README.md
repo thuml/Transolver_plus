@@ -9,7 +9,7 @@ Although previous works have made some progress in handling complex geometries a
 * Transolver++ achieves a **13%** relative gain averaged from six standard benchmarks and over **20%** improvement on high-fidelity million-scale industrial datasets.
 
 # Get Started from AirCraft dataset
-1. Download the data from [link]().
+1. Download the data from [link](https://drive.google.com/file/d/1oTFEgDA9JFbN1O5uzS5X8XQreueHwD3n/view?usp=sharing).
 
 2. Change the `data_path` in the scripts and the mode of training or evaluation.
 
