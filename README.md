@@ -28,6 +28,9 @@ We extensively evaluate Transolver++ on six standard benchmarks and two industri
 <center>Fig 2. Results of industrial application tasks.</center>
 </figure>
 
+# Checkpoints
+We opensource our checkpoints for standard benchmarks [here](https://drive.google.com/drive/folders/1hN-5hh-i4nZR8chcnBvyjdRTQAd43zW8?usp=drive_link). The key to reproducing the results is to try different slice number and clamp the temperature due to training instability.
+
 # Citation
 
 If you find this repo useful, please cite our paper.
